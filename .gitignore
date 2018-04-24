@@ -103,3 +103,7 @@ ENV/
 # Vim tempfiles
 .swp
 .swo
+
+# Fortran files
+.o
+
